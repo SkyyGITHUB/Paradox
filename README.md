@@ -1,2 +1,0 @@
-# Paradox
-Lammers files
